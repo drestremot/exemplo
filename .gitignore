@@ -1,0 +1,9 @@
+*.log
+server.log
+
+# Pastas
+tmp/
+
+
+# Segredos e variáveis de ambiente
+.env
